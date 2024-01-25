@@ -16,3 +16,7 @@ CONTROLS:
 -Press "A" and "D" to move right and left.
 -Press "Space" to jump, and press again to double jump while in the air.
 -Press "Shift" to dash. You can hit your enemies with dash.
+
+--------------------
+
+You can find playable version in the releases tab.
