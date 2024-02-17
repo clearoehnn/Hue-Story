@@ -33,7 +33,7 @@ TextureImporter:
       213: 2683932115446765545
     second: DoorLight_9
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -107,6 +107,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -119,6 +120,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -131,6 +133,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -356,7 +359,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DoorLight_0: -60769894025328247
+      DoorLight_1: 3604683617389357073
+      DoorLight_2: 5824451891499879100
+      DoorLight_3: -5408922579438847913
+      DoorLight_4: -3184365784676025072
+      DoorLight_5: -8836164163365767343
+      DoorLight_6: 3706966820555032016
+      DoorLight_7: -8719142260908488111
+      DoorLight_8: -2684189722501355451
+      DoorLight_9: 2683932115446765545
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
